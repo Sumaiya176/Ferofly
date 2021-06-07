@@ -1,0 +1,44 @@
+.room {
+    padding: 0 200px;
+}
+
+.room-image {
+    margin: 10% 0;
+    /* padding: 0 10%; */
+ }
+ .room-img {
+     background-image: url(../../../images/bg9.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+ }
+
+ .inner-room {
+    padding-top: 1%;
+    padding-bottom:1%;
+ }
+
+ .inner-detail {
+     /* border:1px solid red; */
+     height:350px;
+     width:400px;
+     margin: 300px;
+     background-color:white;
+     text-align: center;
+ }
+
+ .our-rooms {
+     font-weight: 100;
+     font-size: 25px;
+ }
+ .room-button {
+     border: 1px solid black;
+     padding: 9px 17px;
+     transition:all ease .7s;
+     font-size:small;
+    font-weight: 500;
+ }
+ .room-button:hover {
+    background-color: black;
+    color: antiquewhite;
+}

@@ -1,0 +1,19 @@
+.about {
+    font-weight: 100;
+    font-size: 30px;
+    text-align: center;
+}
+
+.about-text {
+    font-weight: 100;
+    text-align: center;
+    padding: 40px 290px;
+    
+}
+
+@media only screen and (max-width: 600px) {
+    .about-text {
+        font-weight: 100;
+        padding: 40px 38px;
+    }
+  }

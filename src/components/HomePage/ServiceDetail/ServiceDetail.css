@@ -1,0 +1,38 @@
+.service-img {
+    height: 40px;
+    padding-left: 120px;
+    color: gray;
+}
+
+/* .cards {
+    border: 1px solid black;
+    padding-left: 30px;
+} */
+
+.detail {
+    text-align: center;
+    color: gray;
+}
+
+@media only screen and (max-width: 600px) {
+    .service-img {
+        padding-left: 150px;
+    }
+    .detail {
+        padding: 0px 200px ;
+    }
+  }
+
+  @media only screen and (max-width: 320px) {
+    .service-img {
+        padding-left: 95px;
+    }
+    
+  }
+
+  @media only screen and (max-width: 360px) {
+    .service-img {
+        padding-left: 110px;
+    }
+    
+  }

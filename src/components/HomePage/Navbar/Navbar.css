@@ -1,0 +1,48 @@
+.navbar-nav.navbar-center {
+    position: relative;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.navigation {
+    height: 100px;
+}
+
+.nav-link {
+    font-weight: 1;
+    font-size: small;
+}
+
+.nav-name {
+    color: rgb(242, 245, 248);
+    transition:all ease .7s;
+}
+
+.nav-name:hover {
+    color: rgb(153, 150, 150);
+}
+
+.button {
+    border: 1px solid white;
+    background-color:black;
+    color: white;
+    font-size:small;
+    font-weight: 500;
+    padding: 9px 19px;
+    transition: all .7s;
+}
+
+.button:hover {
+    background-color:white;
+    color: black;
+}
+
+.toggler-color {
+    color: white;
+    background-color:white;
+    transition:all ease .7s;
+}
+
+.toggler-color:hover {
+    background-color:rgb(211, 207, 207);
+}

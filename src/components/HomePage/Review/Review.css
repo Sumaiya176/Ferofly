@@ -1,0 +1,10 @@
+.review-img {
+    background-image: url(../../../images/gd2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.comma {
+    height:40px;
+}

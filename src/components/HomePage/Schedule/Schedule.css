@@ -1,0 +1,15 @@
+.date {
+    border: 1px solid black;
+    margin-left: 25px; 
+    padding:0px 9px;
+}
+.date-box {
+    padding-left: 15%;
+}
+
+.search-btn {
+    padding: 3px 38px ;
+    margin-left: 25px; 
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,15 @@
+.sidenav {
+    width: 30px;
+    position: fixed;
+    z-index: 1;
+    top: 210px;
+    left: 95%;
+    background: #eee;
+    overflow-x: hidden;
+    padding: 18px 0;
+    background-color: white;
+  }
+
+  .side-icon {
+      height:30px;
+  }
